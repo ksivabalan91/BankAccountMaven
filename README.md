@@ -1,4 +1,4 @@
-#Header
+# Header
 
 git init - initialize local repo
 git add * - add all files to staging area
